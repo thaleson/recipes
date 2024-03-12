@@ -35,6 +35,4 @@ Recipes Master foi desenvolvido por Thaleson Silva, um entusiasta da culinária 
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
----
 
-Espero que esse README ajude a transmitir a essência e os objetivos do seu projeto de site de receitas de forma clara e atraente!
