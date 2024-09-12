@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-718@!owh1ul&25g472+hwv!#%#_z)%dp^dj6h$k^fice402q21
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', 'recipes-tau-neon.vercel.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['.vercel.app', 'https://recipes-five-silk.vercel.app/', 'localhost', '127.0.0.1']
 
 
 
